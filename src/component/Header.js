@@ -27,7 +27,7 @@ class Header extends Component {
     }
 
     render(){
-        const style = {height : 70};
+        const style = {height : 70, marginTop : 5};
 
         return(
         <div className="container-fluid">
