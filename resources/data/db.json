@@ -37,40 +37,5 @@
       "thumbnail": "/images/product/6.jpg"
     }
   ],
-  "orders": [
-    {
-      "orderedDate": "2021-03-30T07:32:55.307Z",
-      "totalPrice": 960,
-      "orders": [
-        {
-          "product": {
-            "id": 2,
-            "productName": "ไก่ทอด",
-            "unitPrice": "90",
-            "thumbnail": "/images/product/2.jpg"
-          },
-          "quantity": 2
-        },
-        {
-          "product": {
-            "id": 3,
-            "productName": "บิงซู",
-            "unitPrice": "250",
-            "thumbnail": "/images/product/3.jpg"
-          },
-          "quantity": 2
-        },
-        {
-          "product": {
-            "id": 6,
-            "productName": "กาแฟ เฮลตี้ฟู้ด",
-            "unitPrice": "140",
-            "thumbnail": "/images/product/6.jpg"
-          },
-          "quantity": 2
-        }
-      ],
-      "id": 1
-    }
-  ]
+  "orders": []
 }
